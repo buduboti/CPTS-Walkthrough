@@ -68,3 +68,5 @@ If you're ready to start, check out the individual module walkthroughs linked ab
 
 ## The work is in progress, so please be patient) Every module will have a complete walkthrough soon ;)
 
+## Also usefull links
+ - https://notes.cavementech.com/pentesting-quick-reference/active-directory/domain-trusts/attacking-domain-trusts-child-greater-than-parent-trusts-from-linux
